@@ -31,5 +31,3 @@ O projeto irá rodar em **http://localhost:3000** e para fazer o consumo das rot
 ```shell
 http://localhost:3000/docs
 ```
-
-Para consumir
